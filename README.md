@@ -14,13 +14,13 @@ i <strong>Love</strong> building things and getting my hands dirty, here's some 
    ![Monarch's Stats](https://github-readme-stats.vercel.app/api?username=MonarchGitHub&&theme=chartreuse-dark&show_icons=true)
   <br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonarchGitHub&langs_count=8&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonarchGitHub&langs_count=8&layout=compact&title_color=0bfc03&icon_color=0bfc03&text_color=e0e0e0&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
   
   
   <br>
 
         
-[![trophy](https://github-profile-trophy.vercel.app/?username=MonarchGitHub&theme=darkhub&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MonarchGitHub&theme=darkhub&row=1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
