@@ -7,6 +7,7 @@ i <strong>Love</strong> building things and getting my hands dirty, here's some 
 <ul>
          <li><a href="https://github.com/MonarchGitHub/Parvah"><strong>Parvah (Ambulance Tracker)</strong></a> </li>
         ‣ A real-time Ambulance Tracking android application.
+           <br>
         ‣ Built with React Native, Google Maps API and Amazon Amplify.
         <li><a href="https://github.com/MonarchGitHub/HeadsTails"><strong>Head&Tails Counter</strong></a> </li>
         ‣ A GUI based heads tails counter written in C++ using QT UI/UX Library.
