@@ -9,8 +9,9 @@ i <strong>Love</strong> building things and getting my hands dirty, here's some 
         ‣ A real-time Ambulance Tracking android application.
            <br>
         ‣ Built with React Native, Google Maps API and Amazon Amplify.
-        <li><a href="https://github.com/MonarchGitHub/HeadsTails"><strong>Head&Tails Counter</strong></a> </li>
-        ‣ A GUI based heads tails counter written in C++ using QT UI/UX Library.
+        <li><a href="https://github.com/MonarchGitHub/30DaysOfJavaScript/tree/master/97%20-%20Audio%20Visualizer"><strong>Audio Visualizer</strong></a> </li>
+        ‣ Built with vanilla JS, tried my hands on JS/HTML audio elements.  <br>
+        ‣ One of my favourites I had so much fun UwU.
         <li><a href="https://github.com/MonarchGitHub/CurrencyConverter"><strong>CurrencyConverter</strong></a> </li>
         ‣ A currency converting application written in C++ using QT UI/UX library.
     </ul>
