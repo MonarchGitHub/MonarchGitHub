@@ -12,8 +12,8 @@ i <strong>Love</strong> building things and getting my hands dirty, here's some 
         <li><a href="https://github.com/MonarchGitHub/30DaysOfJavaScript/tree/master/97%20-%20Audio%20Visualizer"><strong>Audio Visualizer</strong></a> </li>
         ‣ Built with vanilla JS, tried my hands on JS/HTML audio elements.  <br>
         ‣ One of my favourites I had so much fun UwU.
-        <li><a href="https://github.com/MonarchGitHub/CurrencyConverter"><strong>CurrencyConverter</strong></a> </li>
-        ‣ A currency converting application written in C++ using QT UI/UX library.
+        <li><a href="https://github.com/MonarchGitHub/Amazing-Js-Projects/tree/master/Reflex%20Training"><strong>Reaction Test</strong></a> </li>
+        ‣ Built with JS and HTML, pretty neat imo i'll probably add more tests too. 
     </ul>
     
    ![Monarch's Stats](https://github-readme-stats.vercel.app/api?username=MonarchGitHub&&theme=chartreuse-dark&show_icons=true)
