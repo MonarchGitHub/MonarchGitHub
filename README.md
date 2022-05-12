@@ -23,8 +23,11 @@ i <strong>Love</strong> building things and getting my hands dirty, here's some 
   
   
   <br>
-
-        
+  
+  ![activity graph](https://activity-graph.herokuapp.com/graph?username=MonarchGitHub&bg_color=000000&color=EEEEEE&line=94FC13&point=F7F7F7&area=true&hide_border=true)
+    
+  <br>
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=MonarchGitHub&theme=darkhub&row=1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
