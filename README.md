@@ -22,10 +22,10 @@ i <strong>Love</strong> building things and getting my hands dirty, here's some 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonarchGitHub&langs_count=8&layout=compact&title_color=0bfc03&icon_color=0bfc03&text_color=e0e0e0&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
   
   
-  <br>
+<!--   <br>
   
   ![activity graph](https://activity-graph.herokuapp.com/graph?username=MonarchGitHub&bg_color=000000&color=EEEEEE&line=94FC13&point=F7F7F7&area=true&hide_border=true)
-    
+     -->
   <br>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=MonarchGitHub&theme=darkhub&row=1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
