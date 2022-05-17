@@ -16,10 +16,10 @@ i <strong>Love</strong> building things and getting my hands dirty, here's some 
         ‣ Built with JS and HTML, pretty neat imo i'll probably add more tests too. 
     </ul>
     
-   ![Monarch's Stats](https://github-readme-stats.vercel.app/api?username=MonarchGitHub&&theme=chartreuse-dark&show_icons=true)
+   ![Monarch's Stats](github-readme-stats.vercel.app/api?username=MonarchGitHub&&theme=chartreuse-dark&show_icons=true)
   <br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonarchGitHub&langs_count=8&layout=compact&title_color=0bfc03&icon_color=0bfc03&text_color=e0e0e0&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](github-readme-stats.vercel.app/api/top-langs/?username=MonarchGitHub&langs_count=8&layout=compact&title_color=0bfc03&icon_color=0bfc03&text_color=e0e0e0&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
   
   
 <!--   <br>
