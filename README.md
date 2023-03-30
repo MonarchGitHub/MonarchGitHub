@@ -6,9 +6,9 @@ i <strong>Love</strong> building things and getting my hands dirty, here's some 
 
 <ul>
           <li><a href="https://gpt3-writer-starter-ten-topaz.vercel.app/"><strong>GPT-3 Question Generator</strong></a> </li>
-        ‣ Built in React.js and Node.j as backend.  <br>
-        ‣ Can genrate questions/Trivia based on any topic or piece of content provided to it. <br>
-        ‣ Whatsapp chatbot WIP. <br>
+        ‣ Built in React.js and Node.js as backend.  <br>
+        ‣ Can generate questions/Trivia based on any topic or piece of content provided to it. <br>
+        ‣ Whatsapp chatbot with GPT-3 API in works. <br>
                  <li><a href="https://github.com/MonarchGitHub/Parvah"><strong>Parvah (Ambulance Tracker)</strong></a> </li>
         ‣ A real-time Ambulance Tracking android application.
            <br>
