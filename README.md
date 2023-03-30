@@ -5,13 +5,14 @@
 i <strong>Love</strong> building things and getting my hands dirty, here's some things i've built and contributed to:-
 
 <ul>
-         <li><a href="https://github.com/MonarchGitHub/Parvah"><strong>Parvah (Ambulance Tracker)</strong></a> </li>
+          <li><a href="https://gpt3-writer-starter-ten-topaz.vercel.app/"><strong>GPT-3 Question Generator</strong></a> </li>
+        ‣ Built in React.js and Node.j as backend.  <br>
+        ‣ Can genrate questions/Trivia based on any topic or piece of content provided to it. <br>
+        ‣ Whatsapp chatbot WIP. <br>
+                 <li><a href="https://github.com/MonarchGitHub/Parvah"><strong>Parvah (Ambulance Tracker)</strong></a> </li>
         ‣ A real-time Ambulance Tracking android application.
            <br>
         ‣ Built with React Native, Google Maps API and Amazon Amplify.
-        <li><a href="https://github.com/MonarchGitHub/30DaysOfJavaScript/tree/master/97%20-%20Audio%20Visualizer"><strong>Audio Visualizer</strong></a> </li>
-        ‣ Built with vanilla JS, tried my hands on JS/HTML audio elements.  <br>
-        ‣ One of my favourites I had so much fun UwU.
         <li><a href="https://github.com/MonarchGitHub/Amazing-Js-Projects/tree/master/Reflex%20Training"><strong>Reaction Test</strong></a> </li>
         ‣ Built with JS and HTML, pretty neat imo i'll probably add more tests too. 
     </ul>
